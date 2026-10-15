@@ -1,0 +1,101 @@
+Code,Name,sector,verdict,failed_criteria,reason,est_revenue_krw_bn,est_norm_net_margin_pct,est_norm_ey_pct,confidence
+000990,DB하이텍,Foundry semis,FAIL,"3,4,6","DB group affiliate, hired CEO; revenue ~flat 3y; norm EY ~5%",1300,19,4.8,high
+011790,SKC,Chemicals/battery copper foil,FAIL,"3,4,5","SK chaebol affiliate, hired CEO; loss-making copper foil/glass substrate, high debt",1800,,,high
+241560,두산밥캣,Construction equipment,FAIL,"4,6",Doosan chaebol affiliate run by hired CEO; revenue declining since 2023,8500,6,10.2,high
+175330,JB금융지주,Bank,FAIL,"2,4",Regional bank holding; no controlling owner-operator,,,,high
+377300,카카오페이,Fintech/payments,FAIL,"2,3,4","Payments/fintech, Kakao/Alipay owned, hired CEO, thin profits vs ~4.9tn cap",900,,,high
+001440,대한전선,Power cables,FAIL,"3,4","Hoban group owned, hired CEO; norm EY ~2-3% at 3-4% net margin",3600,3.5,2.6,high
+029780,삼성카드,Credit card,FAIL,"2,4","Samsung financial affiliate, hired CEO; card lender",,,,high
+000250,삼천당제약,Pharma/biosimilars,FAIL,3,Generic/biosimilar pharma valued on pipeline hype; revenue ~0.2tn vs 4.8tn cap,220,10,0.5,high
+267270,HD건설기계,Construction equipment,FAIL,"4,6","HD Hyundai chaebol affiliate (merged CE+Infracore), hired CEO; cyclical, no structural growth",8000,4,6.7,high
+066970,엘앤에프,Battery cathode,FAIL,"3,5,6","Cathode maker with losses, rising debt, revenue collapsed from 2023 peak",2000,,,high
+403870,HPSP,Semi equipment (HP anneal),FAIL,"3,4","PE-controlled, not owner-run; norm EY ~2.5% even at 40% net margin",190,40,1.6,high
+031980,피에스케이홀딩스,Semi equipment (reflow/descum),FAIL,3,Owner-run but norm EY ~2-3% at 35% net margin on ~0.3tn revenue,300,35,2.3,medium
+138930,BNK금융지주,Bank,FAIL,"2,4",Regional bank holding; no controlling owner,,,,high
+036570,NC,Online games,FAIL,"3,6",Revenue declining since 2022; norm EY ~3-4%,1500,10,3.4,high
+271560,오리온,Confectionery,FAIL,6,"Owner family runs, EY ~9-10%, but revenue CAGR only ~4-5% since 2022",3300,12,9.5,medium
+052690,한전기술,Nuclear/power plant engineering,FAIL,"3,4",KEPCO subsidiary (state-owned); norm EY ~2%,550,12,1.6,high
+088350,한화생명,Life insurer,FAIL,"2,4","Life insurer, Hanwha chaebol affiliate",,,,high
+010060,OCI홀딩스,Polysilicon/chem holding,FAIL,"2,3,6",Holding with polysilicon losses; revenue declining; complex structure,3500,,,high
+454910,두산로보틱스,Cobots,FAIL,"3,4","Doosan chaebol, hired CEO; loss-making, revenue ~50bn vs 4tn cap",50,,,high
+018880,한온시스템,Auto thermal mgmt,FAIL,"3,4,5","Hankook group took over, hired CEO; thin/negative profits, heavy debt, rights issues",10000,1,2.5,high
+319660,피에스케이,Semi equipment (strip/dry clean),FAIL,3,Owner-run but norm EY ~2.5% at 20% net margin on ~0.5tn revenue,500,20,2.5,medium
+051900,LG생활건강,Cosmetics/household,FAIL,"4,6","LG-linked chaebol, hired CEO; revenue declining 3+ years",6600,4,6.7,high
+028670,팬오션,Dry bulk shipping,FAIL,"4,6","Harim group affiliate, hired CEO; cyclical shipping revenue, no growth trend",5000,5,6.5,medium
+034220,LG디스플레이,Displays,FAIL,"3,4,5","LG chaebol, hired CEO; chronic losses, heavy debt",26000,,,high
+004020,현대제철,Steel,FAIL,"4,6","Hyundai Motor group affiliate, hired CEO; steel revenue declining",22000,1,5.8,high
+002380,KCC,Paints/building materials/silicone,FAIL,6,Owner-run (Chung family) but revenue flat ~6.5tn; heavy debt from Momentive,6600,3,5.3,medium
+095340,ISC,Semi test sockets,FAIL,"3,4","SKC (SK group) subsidiary, hired CEO; norm EY ~1.5%",180,25,1.2,high
+108490,로보티즈,Robot actuators,FAIL,3,Revenue ~50bn vs 3.7tn cap; theme-driven valuation,50,10,0.1,high
+001040,CJ,Holding company,FAIL,"2,4",Chaebol holding company (CJ group); opaque multi-business,,,,high
+001450,현대해상,Non-life insurer,FAIL,2,Insurer,,,,high
+103590,일진전기,Transformers/cables,FAIL,3,Iljin group subsidiary; norm EY ~2.5% at 5% net margin on ~1.9tn revenue,1900,5,2.7,medium
+131290,티에스이,Semi probe cards/test,FAIL,3,Owner-run but norm EY ~2% on ~0.45tn revenue,450,15,1.9,medium
+084370,유진테크,Semi deposition equipment,FAIL,3,Owner-run but norm EY ~2% at 18% margin on ~0.35tn revenue,350,18,1.8,medium
+036460,한국가스공사,Gas utility,FAIL,"4,5","State-owned utility, heavy debt",,,,high
+082740,한화엔진,Marine engines,FAIL,"3,4","Hanwha chaebol affiliate, hired CEO; norm EY ~3%",1500,6,2.7,high
+440110,파두,SSD controllers,FAIL,"3,5","Loss-making fabless, accounting/IPO scandal",,,,high
+111770,영원무역,Outdoor apparel OEM + Scott bikes,FAIL,6,"Owner-run, EY ~12%, but revenue 3.91tn (2022) to 4.06tn (2025): ~1% CAGR",4060,10,12.3,high
+012750,에스원,Security services,FAIL,"4,6","Samsung affiliate, hired CEO; low growth",2900,6,5.3,high
+192820,코스맥스,Cosmetics ODM,FAIL,"3,5","Owner-run, growing, but norm EY ~4% at 5-6% net margin; elevated debt",2500,5.5,4.3,medium
+022100,포스코DX,IT services/automation,FAIL,"3,4","POSCO affiliate, hired CEO; norm EY ~2-3%",1500,5,2.4,high
+035250,강원랜드,Casino,FAIL,"4,6","State-controlled (KEPCO/municipal), revenue flat",1450,20,9.4,high
+008930,한미사이언스,Pharma holding,FAIL,"2,3","Holding of Hanmi Pharm; family feud; holding discount, low look-through EY",,,,high
+067310,하나마이크론,OSAT,FAIL,"3,5","Thin margins, heavy debt and CB history",1500,3,1.5,high
+031210,서울보증보험,Guarantee insurer,FAIL,"2,4","Insurer, state (KDIC) controlled",,,,high
+357780,솔브레인,Semi chemicals,FAIL,"3,6",Owner-run but revenue flat; norm EY ~4-5%,850,15,4.3,medium
+011780,금호석유화학,Synthetic rubber/petchem,FAIL,6,"Cyclical petchem; revenue below 2021-22 peak, no growth",7000,5,11.9,medium
+161890,한국콜마,Cosmetics ODM + pharma,FAIL,3,Growing ~13% CAGR but norm EY ~4-5% on controlling NI; family dispute,2700,5,4.6,medium
+020150,롯데에너지머티리얼즈,Copper foil,FAIL,"3,4","Lotte affiliate, hired CEO; losses",,,,high
+064760,티씨케이,SiC rings for semis,FAIL,"3,4","Tokai Carbon (Japan) subsidiary, hired CEO; norm EY ~2-3%",300,25,2.6,high
+095610,테스,Semi deposition/etch equipment,FAIL,3,Owner-run but norm EY ~2% on ~0.35tn revenue,350,15,1.8,medium
+302440,SK바이오사이언스,Vaccines,FAIL,"3,4","SK chaebol, hired CEO; loss-making post-COVID",,,,high
+383220,F&F,Apparel brands (MLB),FAIL,6,"Owner-run, EY ~9-10%, but revenue declining since 2023 (China MLB weakness)",1850,15,9.8,medium
+251270,넷마블,Mobile games,FAIL,"3,6","Revenue flat, thin profits; heavy intangibles",2700,4,3.8,high
+214450,파마리서치,Aesthetic medical devices (Rejuran),PASS,,"Founder 31% holder/chair; rev +53% 2025, +27% Q2-26; TTM EY ~7%, fwd ~8%; verify auditor, governance",600,32,6.8,low
+017800,현대엘리베이터,Elevators,FAIL,6,Low single-digit revenue growth; family chair stepped back from board,2500,6,5.4,medium
+457190,이수스페셜티케미컬,Specialty chemicals/solid electrolyte,FAIL,3,Theme valuation; revenue ~0.4tn vs 2.8tn cap,400,8,1.2,high
+097950,CJ제일제당,Food/bio,FAIL,"4,6","CJ chaebol, hired CEO; revenue flat; high debt",29000,1.5,15,high
+004170,신세계,Department stores/duty free,FAIL,"3,6","Revenue flat, weak duty-free; low EY on controlling NI",6500,2,4.8,medium
+026960,동서,Food (Dongsuh Foods JV holding),FAIL,6,Owner-run but revenue/earnings flat; EY ~6-7% mostly equity-method,650,28,6.8,medium
+014680,한솔케미칼,Semi/battery chemicals,FAIL,"3,4,6","Hired CEO, owner ~14%; revenue flat; norm EY ~5%",900,15,5.0,medium
+139130,iM금융지주,Bank,FAIL,"2,4",Regional bank holding,,,,high
+000240,한국앤컴퍼니,Holding (Hankook Tire),FAIL,2,Holding company of Hankook Tire group,,,,high
+178320,서진시스템,Metal enclosures/ESS/semi parts EMS,FAIL,"3,5","Owner-run, growing, but norm EY ~4%; high debt and repeated CB issuance",1300,8,4.0,medium
+006360,GS건설,Construction,FAIL,"3,4,6","Chaebol construction, quality issues, revenue declining",12000,1.5,7,high
+336260,두산퓨얼셀,Fuel cells,FAIL,"3,4","Doosan chaebol, hired CEO; marginal profits",400,,,high
+023530,롯데쇼핑,Retail,FAIL,"4,6","Lotte chaebol, hired CEO; revenue declining, heavy debt",13500,0.5,2.6,high
+018670,SK가스,LPG/LNG trading & power,FAIL,"4,6","SK Discovery affiliate, hired CEO; trading revenue not growing",7000,3.5,9.7,medium
+450080,에코프로머티,Battery precursors,FAIL,"3,5,6","Loss-making precursor maker, revenue falling",,,,high
+003690,코리안리,Reinsurer,FAIL,2,Reinsurer,,,,high
+080220,제주반도체,Memory chips (fabless),FAIL,3,Revenue ~0.2tn vs 2.5tn cap; theme valuation,250,8,0.8,high
+098460,고영,3D inspection equipment,FAIL,"3,6",Revenue flat ~0.23tn; norm EY <1%,230,10,0.9,high
+011170,롯데케미칼,Petrochemicals,FAIL,"3,4,5","Lotte chaebol, large losses, heavy debt",,,,high
+141080,리가켐바이오,Biotech (ADC),FAIL,"2,3","ADC platform biotech, licensing-driven",,,,high
+131970,두산테스나,Semi testing OSAT,FAIL,"3,4","Doosan chaebol, hired CEO; norm EY ~1%",350,10,1.4,high
+007340,DN오토모티브,Auto anti-vibration + machine tools (DN Solutions),FAIL,"5,6","Debt ratio ~200% post-LBO of DN Solutions; revenue ~3.4-3.7tn, no 10% CAGR",3700,6,9.2,medium
+298380,에이비엘바이오,Biotech,FAIL,"2,3",Clinical-stage bispecific biotech,,,,high
+375500,DL이앤씨,Construction,FAIL,"4,6","DL group construction, hired CEO; revenue declining",7500,2.5,7.8,high
+004370,농심,Instant noodles,FAIL,6,Owner-run but revenue CAGR ~4%; norm EY ~6-7%,3500,4.5,6.6,medium
+085620,미래에셋생명,Life insurer,FAIL,2,Life insurer,,,,high
+005290,동진쎄미켐,Semi/display chemicals,FAIL,"3,6",Owner-run but revenue ~flat; norm EY ~5-6%,1500,8.5,5.5,medium
+005440,현대지에프홀딩스,Holding (Hyundai Dept Store grp),FAIL,2,Holding company with multiple retail/food subsidiaries,,,,high
+005850,에스엘,Auto lamps,PASS,,"Owner family 62.9%, CEO Lee Sung-yong; rev 5.24tn 2025, 1Q26 +13%; EY ~13%; 3y CAGR ~7-8% borderline",5600,5.3,13.0,low
+010170,대한광통신,Optical fiber,FAIL,"3,5","Loss-making, CB dilution, theme valuation",,,,high
+009970,영원무역홀딩스,Holding (Youngone Corp),FAIL,"2,6",Pure holding of Youngone Corp; underlying revenue ~1% CAGR 2022-25,4060,5.5,9.8,medium
+043260,성호전자,Capacitors/power electronics,FAIL,3,Small revenue vs 2.2tn cap; theme valuation,200,6,0.5,high
+112610,씨에스윈드,Wind towers,FAIL,"3,5,6","Revenue flat ~3tn 2024-25, 2025 net loss (US plant impairment), elevated debt",3100,4,5.5,medium
+004990,롯데지주,Holding (Lotte),FAIL,"2,4,5","Chaebol holding company, heavy debt",,,,high
+281820,케이씨텍,CMP equipment/slurry,FAIL,3,Owner-run but norm EY ~3% on ~0.45tn revenue,450,15,3.0,medium
+030000,제일기획,Advertising,FAIL,"4,6","Samsung affiliate, hired CEO; low growth",4300,4,7.7,high
+282330,BGF리테일,Convenience stores,FAIL,6,Owner-run but revenue growth ~4-5%; EY ~8%,9000,2,8.2,medium
+310210,보로노이,Biotech,FAIL,"2,3",Clinical-stage kinase inhibitor biotech,,,,high
+009420,한올바이오파마,Biotech,FAIL,"2,3,4","Daewoong affiliate, clinical-stage antibody biotech",,,,high
+004800,효성,Holding (Hyosung),FAIL,2,Chaebol holding company,,,,high
+145020,휴젤,Botulinum toxin/fillers,FAIL,"3,4","Controlled by CBC Group-led consortium, hired CEO; norm EY ~6%",450,30,6.3,medium
+489790,한화비전,CCTV/semi equipment,FAIL,"3,4","Hanwha chaebol, hired CEO; low margins",,,,high
+229640,LS에코에너지,Cables (Vietnam),FAIL,"3,4","LS chaebol subsidiary, hired CEO; norm EY ~2%",950,4,1.8,high
+001720,신영증권,Broker,FAIL,2,Securities broker,,,,high
+279570,케이뱅크,Internet bank,FAIL,"2,4","Bank, no owner-operator",,,,high
+214370,케어젠,Peptides/cosmeceuticals,FAIL,3,Owner-run but revenue ~0.1tn vs 2.1tn cap; norm EY ~1.5%,100,30,1.4,high
+319400,현대무벡스,Logistics automation,FAIL,"3,4","Hyundai group subsidiary, hired CEO; norm EY ~1.5%",450,6,1.3,high

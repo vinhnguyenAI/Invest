@@ -1,0 +1,101 @@
+Code,Name,sector,verdict,failed_criteria,reason,est_revenue_krw_bn,est_norm_net_margin_pct,est_norm_ey_pct,confidence
+005250,녹십자홀딩스,Pharma holding,FAIL,"2,3",Holding company of GC Group; pharma subs barely profitable; opaque consolidated structure,,,,high
+041190,우리기술투자,Venture capital,FAIL,"2,6","VC firm; earnings driven by Dunamu stake valuation, not operating business",,,,high
+033500,동성화인텍,LNG cryogenic insulation,FAIL,5,"FSC sanction: inflated 2022-23 profits via percentage-of-completion; designated auditor, prosecution referral, trading halt 2025",742,6,10.1,medium
+003280,흥아해운,Chemical tanker shipping,FAIL,"4,6","Sinokor-controlled restructured shipper; cyclical freight revenue, no growth phase",,,,medium
+025980,아난티,Resorts/real estate,FAIL,"3,5",Resort developer with heavy borrowings and lumpy condo sales; low recurring profit,,,,high
+200470,에이팩트,Semiconductor testing,FAIL,"3,5",Loss-making memory test house; CB-funded capex,,,,high
+001500,현대차증권,Brokerage,FAIL,"2,4","Securities broker, Hyundai Motor Group affiliate with hired CEO",,,,high
+002240,고려제강,Steel wire/cord,FAIL,6,"Kiswire: mature steel wire business, revenue flat/declining since 2022",1700,3,11.7,medium
+107640,한중엔시에스,ESS cooling/EV parts,FAIL,3,"ESS cooling growth but thin margins; norm NI ~20bn vs 436bn cap, EY ~5%",250,8,4.6,low
+018290,브이티,Cosmetics,FAIL,6,"Reedle Shot boom stalled: 2025 revenue ~flat (3Q cum +0.9%), 4Q OP -62%; Japan declining",433,14,14.0,medium
+010780,아이에스동서,Construction/recycling,FAIL,"5,6","Housing builder revenue declining, PF exposure and sizeable debt",,,,medium
+348340,뉴로메카,Collaborative robots,FAIL,3,Loss-making cobot maker,,,,high
+094170,동운아나텍,Driver ICs,FAIL,"3,6","Camera actuator driver IC maker with recent losses, revenue volatile",,,,medium
+067160,SOOP,Live streaming platform,FAIL,6,"Very cheap (EY ~20%) but 2026 revenue falling: Q1 -1.5%, Q2 -11%; platform traffic declining",455,18,19.1,medium
+019210,와이지-원,Cutting tools,FAIL,"3,5,6","YG-1: low net margin, high debt, revenue growth mid-single digit",580,4,5.4,medium
+000070,삼양홀딩스,Chemical/food holding,FAIL,"2,4",Samyang Group holding company; chaebol-style structure,,,,high
+034310,NICE,Credit info holding,FAIL,2,"Holding company of NICE group (credit rating, VAN, etc.); opaque structure",,,,high
+468530,프로티나,Protein analysis bio-tools,FAIL,"2,3",Pre-profit protein interaction analysis platform,,,,high
+098120,마이크로컨텍솔,Test sockets,FAIL,3,Small burn-in socket maker; NI far below needed ~36bn,,,,medium
+475960,토모큐브,Holographic microscopy,FAIL,3,Loss-making early-stage imaging startup,,,,high
+460930,현대힘스,Ship hull blocks,FAIL,4,"Ship block maker owned by financial investors (spun out of HD Hyundai), no owner-operator",,,,medium
+249420,일동제약,Pharma,FAIL,"3,5","Loss-making pharma, heavy R&D, high debt",,,,high
+033160,엠케이전자,Bonding wire/solder,FAIL,"3,5",Thin margins on metal pass-through revenue; high leverage,,,,medium
+003030,세아제강지주,Steel pipe holding,FAIL,"2,6",Holding company of SeAH Steel; pipe revenue past 2022 peak,,,,high
+035890,서희건설,Construction,FAIL,6,Regional housing union builder; revenue not growing; owner Lee Bong-kwan under indictment,,,,medium
+042000,카페24,E-commerce platform,FAIL,"3,6","Founder-run, but ~260bn revenue at ~8% net margin gives EY ~5%; growth single-digit",260,8,5.0,medium
+204620,글로벌텍스프리,Tax refund services,FAIL,3,Tourist tax refund operator; small profits vs cap,,,,medium
+078130,에스엠국일,Paper/graphene theme,FAIL,"2,3","Kukil Paper lineage; theme-driven, loss-making, pivoting businesses",,,,medium
+078340,컴투스,Mobile games,FAIL,"3,6","Game developer with recurring losses, flat revenue",,,,high
+340570,티앤엘,Wound care/acne patches,PASS,,"Hydrocolloid patch ODM; 2024 rev 174.9bn (+51%), OPM 33%, net cash; verify 2025-26 growth, owner stake, Hero customer concentration",210,22,11.2,medium
+417840,저스템,Semiconductor N2 purge,FAIL,3,"Small equipment maker, low profits",,,,high
+072710,농심홀딩스,Food holding,FAIL,2,Pure holding company of Nongshim,,,,high
+014830,유니드,Potash chemicals/boards,FAIL,6,Commodity potassium hydroxide; revenue flat/cyclical,1100,4,10.7,medium
+002990,금호건설,Construction,FAIL,"3,5",Builder with recent losses and high leverage,,,,high
+016610,DB증권,Brokerage,FAIL,"2,4","Securities broker, DB Group affiliate",,,,high
+336570,원텍,Aesthetic devices (RF/laser),PASS,,"Founder-led energy-based device maker; 2025 rev 156.8bn (+36%), NI 35.2bn; 1H26 rev +13.6%, NI +22.6%",167,24,9.8,medium
+030520,한컴,Office software,FAIL,"3,5","Hancom group; low consolidated profit, M&A/crypto history, owner family legal issues",,,,medium
+441270,파인엠텍,Foldable display parts,FAIL,"3,6",Samsung foldable parts supplier; volatile revenue and margins,,,,low
+403550,쏘카,Car sharing,FAIL,3,Barely profitable car-sharing; asset-heavy fleet debt,,,,high
+272290,이녹스첨단소재,OLED/FPCB materials,FAIL,6,Display materials revenue flat-to-down; no growth phase,,,,medium
+271940,일진하이솔루스,Hydrogen tanks,FAIL,3,Hydrogen tank maker with thin/negative profits; demand tied to Nexo,,,,high
+159010,아스플로,Semicon gas parts,FAIL,3,Small UHP tube/fittings maker; NI far below cap requirement,,,,medium
+215200,메가스터디교육,Education,FAIL,6,Cheap but revenue plateaued ~930-950bn since 2023 with shrinking student cohort,930,8,18.6,medium
+125490,한라캐스트,Die-cast parts,FAIL,3,Small auto die-caster; thin profits vs cap,,,,medium
+306200,세아제강,Steel pipes,FAIL,6,Pipe sales declining since 2022 peak; US tariffs,,,,medium
+236200,슈프리마,Biometrics,FAIL,"3,6","Biometric access control; growth modest, EY ~6%",120,20,6.0,low
+376900,로킷헬스케어,Regenerative medicine,FAIL,3,Loss-making bio-printing/regeneration,,,,high
+114810,한솔아이원스,Semicon parts cleaning,FAIL,"3,4","Hansol group affiliate, hired CEO; small profits",,,,medium
+002810,삼영무역,Trading/investment,FAIL,2,Optical lens trading plus investment holdings; earnings from equity stakes,,,,medium
+031430,신세계인터내셔날,Fashion/cosmetics,FAIL,"4,6","Shinsegae chaebol affiliate, hired CEO; revenue declining",,,,high
+170920,엘티씨,Semicon chemicals,FAIL,3,Display/semicon strippers; profit too small for 389bn cap,,,,low
+013030,하이록코리아,Instrument fittings/valves,PASS,,"Owner-run (Moon family), big net cash, OPM ~27%; rev 188.8bn (2023) to 214.5bn (2025), 1H26 +10%; 3y CAGR borderline",225,21,12.2,low
+095660,네오위즈,Games,FAIL,"4,6","Hired CEOs, founder at holdco; revenue flat around 360bn",,,,medium
+393890,더블유씨피,Battery separators,FAIL,"3,5","Loss-making separator maker, heavy capex/debt",,,,high
+368770,파이버프로,Fiber-optic gyros,FAIL,3,Small revenue; profits far below hurdle,,,,medium
+475830,오름테라퓨틱,Biotech (degraders),FAIL,"2,3",Clinical-stage biotech,,,,high
+052710,아모텍,Electronic components,FAIL,"3,6","Recurring losses, declining revenue",,,,high
+101730,위메이드맥스,Games,FAIL,"3,4",Wemade subsidiary; volatile small profits,,,,medium
+056080,유진로봇,Service robots,FAIL,"3,4","Miele-controlled robot maker, marginal profit",,,,medium
+092230,KPX홀딩스,Chemical holding,FAIL,2,Holding company of KPX Chemical,,,,high
+003000,부광약품,Pharma,FAIL,"3,4",OCI-controlled pharma with losses,,,,high
+015360,INVENI,Holding (ex-Yesco Holdings),FAIL,2,LS-family holding company with gas utility/other subs,,,,medium
+344820,KCC글라스,Glass/interior,FAIL,6,Owner-run and cheap but glass/interior revenue flat-to-down,1600,4,17.0,medium
+069080,웹젠,Games,FAIL,6,MU franchise revenue declining for years,,,,high
+092190,서울바이오시스,UV/LED chips,FAIL,3,Loss-making LED chip maker,,,,high
+079370,제우스,Semicon equipment/robots,FAIL,"3,6","Cyclical equipment revenue, thin profits",,,,low
+002710,TCC스틸,Tinplate/battery steel,FAIL,"3,6","Nickel-plated battery steel demand down, revenue falling",,,,medium
+027360,아주IB투자,Venture capital,FAIL,2,VC firm; mark-to-market earnings,,,,high
+241770,메카로,Semicon heater blocks,FAIL,3,Small parts maker; NI well below ~31bn needed,,,,medium
+029530,신도리코,Office printers,FAIL,6,"Owner-run with big net cash, but printer revenue flat/declining",,,,high
+217590,티엠씨,Marine/industrial cables,FAIL,3,Low-margin cable maker; EY below hurdle,,,,low
+008730,율촌화학,Packaging films,FAIL,"3,6","Nongshim affiliate packaging; low margins, battery film losses",,,,medium
+078160,메디포스트,Cell therapy,FAIL,"3,4",PE-controlled stem-cell company with losses,,,,high
+126560,현대퓨처넷,Digital signage/IT,FAIL,"4,6","Hyundai Department Store group affiliate, hired CEO; revenue stagnant",,,,medium
+187660,페니트리움바이오,Biotech,FAIL,"2,3",Pre-revenue biotech story,,,,medium
+001200,유진투자증권,Brokerage,FAIL,2,Securities broker,,,,high
+015860,일진홀딩스,Industrial holding,FAIL,2,Holding company of Iljin group,,,,high
+092730,네오팜,Derma cosmetics,FAIL,3,"~110bn revenue, NI ~15bn vs 359bn cap (EY ~4%)",110,14,4.3,medium
+183190,아세아시멘트,Cement,FAIL,6,Cheap but cement volumes falling with construction downturn,1100,6,18.4,medium
+001940,KISCO홀딩스,Steel holding,FAIL,2,Holding company of Korea Iron & Steel,,,,high
+348210,넥스틴,Wafer inspection,FAIL,6,Revenue fell after China-driven 2024 peak; lumpy orders,,,,low
+036800,나이스정보통신,Card VAN,FAIL,"3,4","NICE group subsidiary, hired CEO; thin VAN margins",,,,medium
+130660,한전산업,Power plant services,FAIL,4,Controlled by KEPCO/Korea Freedom Federation; no owner-operator,,,,high
+397030,에이프릴바이오,Biotech,FAIL,2,Clinical-stage biotech,,,,high
+389470,인벤티지랩,Drug delivery biotech,FAIL,"2,3",Pre-profit long-acting injectable platform,,,,high
+486990,노타,AI model optimisation,FAIL,3,Loss-making AI software startup,,,,high
+007690,국도화학,Epoxy resins,FAIL,"3,6",Epoxy margins squeezed by Chinese supply; losses,,,,medium
+025320,시노펙스,Filters/FPCB,FAIL,3,Small low-margin filter maker,,,,medium
+138080,오이솔루션,Optical transceivers,FAIL,3,Loss-making transceiver maker,,,,high
+330860,네패스아크,Semicon test,FAIL,3,Loss-making test house,,,,high
+027410,BGF,Retail holding,FAIL,2,Holding company of BGF Retail,,,,high
+091580,상신이디피,Battery cans,FAIL,3,Thin margins on cylindrical cans; EY below hurdle,,,,low
+105630,한세실업,Apparel OEM,FAIL,"5,6","Revenue flat ~1.8tn, high working-capital debt",,,,medium
+011930,신성이엔지,Cleanroom/solar,FAIL,3,"Low-margin cleanroom contractor, recent losses",,,,medium
+354320,알멕,Aluminum extrusions,FAIL,"3,6",EV battery housing demand slump; revenue and profits down,,,,medium
+194370,제이에스코퍼레이션,Handbag/apparel OEM,PASS,,"2025 rev 1.29tn (+15%), OP 140bn, NI 86bn; verify minorities, debt, founder Kim Kap-jin stake",1288,5.5,20.3,low
+025900,동화기업,Wood panels/electrolyte,FAIL,"3,5","Electrolyte losses, heavy leverage",,,,medium
+372320,큐로셀,CAR-T biotech,FAIL,2,Clinical-stage cell therapy,,,,high
+078020,LS증권,Brokerage,FAIL,2,Securities broker,,,,high
+005610,삼립,Bakery/food,FAIL,"4,6",SPC affiliate with hired CEO; revenue growth low single-digit,,,,medium
