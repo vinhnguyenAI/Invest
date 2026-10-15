@@ -1,0 +1,101 @@
+Code,Name,sector,verdict,failed_criteria,reason,est_revenue_krw_bn,est_norm_net_margin_pct,est_norm_ey_pct,confidence
+156100,엘앤케이바이오,Medical devices (spinal implants),FAIL,"3,5",Spinal implant maker with thin/negative profits; CB financing history,70,4,2.0,medium
+032940,원익,Medical lasers / trading,FAIL,"3,6",Small-margin medical device and materials trading; no sustained growth; earnings far below hurdle,90,3,1.9,low
+388790,라이콤,Optical comms components,FAIL,3,Small fibre-optic amplifier/laser maker with minimal earnings,15,5,0.5,medium
+475040,스트라드비젼,ADAS vision software,FAIL,3,Loss-making ADAS perception software company,15,,,high
+147830,제룡산업,Power transmission fittings,PASS,,"Line fittings/insulators for KEPCO, HVDC; FY25 rev +29%, H1-26 +74%; TTM EY ~14%, norm ~8%; owner/auditor unverified",51,22,8.0,low
+080160,모두투어,Travel agency,FAIL,"4,6","Founder stake ~10% with professional CEO; post-COVID rebound flattening, low-margin agency",250,4,7.1,medium
+004150,한솔홀딩스,Holding company,FAIL,2,Hansol group pure holding company,,,,high
+432720,퀄리타스반도체,Semiconductor interface IP,FAIL,3,Loss-making interface IP developer,15,,,high
+052860,아이앤씨,Fabless semiconductors,FAIL,3,Small fabless chip designer with recurring losses,20,,,medium
+228850,레이언스,X-ray detectors,FAIL,6,Vatech-group X-ray detector maker; revenue declining since 2021 peak,120,7,6.1,medium
+089600,KT나스미디어,Digital advertising,FAIL,4,KT group affiliate run by hired management,150,5,5.4,high
+255440,야스,OLED deposition equipment,FAIL,6,Lumpy OLED evaporator orders; revenue declining from peak,60,8,3.5,medium
+274090,켄코아에어로스페이스,Aerostructure parts,FAIL,"3,5","Leveraged aircraft parts maker with repeated CB issuance, thin profits",80,3,1.7,medium
+205500,넥써쓰,Games / blockchain,FAIL,"2,3",Ex-Actoz Soft pivoting to blockchain gaming; losses,30,,,high
+008350,남선알미늄,Aluminium extrusions / auto parts,FAIL,"4,6",SM Group affiliate with hired management; low-growth commodity business,250,2,3.6,high
+146320,비씨엔씨,Semiconductor quartz/SiC parts,FAIL,"3,5",Thin profits on semicon consumables; CB dilution,70,5,2.6,medium
+054450,텔레칩스,Automotive SoC fabless,FAIL,3,Auto infotainment chip designer; recent operating losses,190,3,4.2,medium
+102120,어보브반도체,MCU fabless,FAIL,"3,6",MCU maker with weak/negative earnings and flat revenue,140,3,3.1,medium
+011690,와이투솔루션,Electronic components,FAIL,"3,5","Loss-making, governance issues",80,,,medium
+265740,엔에프씨,Cosmetic raw materials,FAIL,3,Small cosmetics ingredients maker; low profit vs market cap,50,6,2.2,medium
+008970,KBI동양철관,Steel pipes,FAIL,"3,6","Commodity steel pipe maker, thin margins, cyclical revenue",250,2,3.7,medium
+136540,윈스테크넷,Network security (IPS),FAIL,6,"Security appliances; revenue ~flat around 100bn for years; parent Kumyang Telecom, hired CEO",100,12,8.9,medium
+413630,씨피시스템,Cable chains for robots,FAIL,3,Small cable-carrier maker with negligible earnings,20,5,0.7,medium
+114840,아이패밀리에스씨,Colour cosmetics (rom&nd),PASS,,"Founder-run rom&nd brand; FY25 rev 224bn, NI ~21bn (EY ~16%); net cash; H1-26 growth only ~1% - verify",230,8,13.6,medium
+264660,씨앤지하이테크,Semicon chemical supply systems,FAIL,6,"Capex-driven equipment; 2025 peak (~196bn), 2026 revenue forecast -14%",196,9,13.1,medium
+001080,만호제강,Wire rope,FAIL,6,Mature wire-rope maker; flat revenue,250,4,7.4,medium
+012610,경인양행,Dyes / chemicals,FAIL,"3,6","Commodity dyes, thin margins, no growth",300,2,4.5,medium
+037070,파세코,Heaters / home appliances,FAIL,6,"Seasonal heater/air-con sales, erratic revenue, no sustained growth",150,4,4.5,medium
+0082N0,카나프테라퓨틱스,Biotech,FAIL,"2,3",Clinical-stage biotech,5,,,high
+052260,현대바이오랜드,Cosmetic/health ingredients,FAIL,4,"Hyundai Department Store group affiliate, hired CEO",130,5,4.9,high
+025820,이구산업,Copper alloy strip,FAIL,"3,6","Copper-price driven rolling mill, thin margins, cyclical revenue",450,2,6.8,medium
+232680,라온로보틱스,Wafer transfer robots,FAIL,3,"Small robot maker, minimal earnings",30,5,1.1,medium
+226590,엠디바이스,SSD/storage modules,FAIL,3,"Small storage module maker, low/negative profit",50,3,1.1,low
+148150,세경하이테크,Smartphone films,FAIL,6,"Deco/protective films; revenue tied to Samsung handset cycle, not growing",130,7,6.9,low
+016880,웅진,Holding / IT services,FAIL,"2,5",Woongjin group holding with heavy debt,,,,high
+457550,우진엔텍,Nuclear plant maintenance,FAIL,3,Small nuclear maintenance services; earnings far below hurdle,45,13,4.4,medium
+003100,선광,Port stevedoring/logistics,FAIL,6,"Incheon port operator; mature, low growth",220,5,8.4,low
+048870,시너지이노베이션,Bio / mixed,FAIL,"2,3","Mixed bio businesses, losses",30,,,medium
+256940,킵스파마,Pharma / CRO,FAIL,3,Small pharma with weak earnings,30,,,low
+300080,플리토,Translation / AI data,FAIL,3,Loss-making language data platform,25,,,high
+018470,조일알미늄,Aluminium rolling,FAIL,"3,6","Commodity aluminium rolling, thin margins",250,1,1.9,medium
+035080,그래디언트,Holding company,FAIL,2,Ex-Interpark holding company with mixed subsidiaries,,,,high
+014280,금강공업,Steel pipes / formwork,FAIL,6,Construction-linked steel products; revenue flat/declining,400,2,6.1,medium
+419050,삼기에너지솔루션즈,EV battery parts,FAIL,"3,5",Loss-making battery housing maker,100,,,medium
+217190,제너셈,Semiconductor back-end equipment,FAIL,"3,6",Small lumpy equipment maker,50,6,2.3,low
+049720,고려신용정보,Debt collection / credit info,FAIL,6,"Founder-family run; FY25 rev ~178bn (+4%), NI ~13bn (EY ~10%) but growth only mid-single digit",178,7.5,10.3,medium
+081000,일진다이아,Industrial diamonds,FAIL,"3,6","Recurring losses, revenue declining",80,,,medium
+071280,로체시스템즈,Wafer/glass transfer systems,FAIL,3,"Small equipment maker, low earnings",50,5,1.9,low
+452190,한빛레이저,Industrial lasers,FAIL,3,"Small laser maker, minimal profit",30,3,0.7,low
+094840,슈프리마에이치큐,Holding company,FAIL,2,Holding company of Suprema,,,,high
+0039P0,매드업,AI performance marketing,FAIL,3,"2025 rev ~50bn (+44%), OP 8.5bn after 2024 loss; norm EY ~6% at 13% margin, short record",60,13,6.1,medium
+212560,네오오토,Auto transmission gears,FAIL,6,"Gear parts for Hyundai; Q2-26 revenue +2%, NI falling",250,4,7.8,medium
+001540,안국약품,Pharma,FAIL,3,"Generic pharma, low net margin",220,3,5.1,medium
+054920,한컴위드,Security / crypto,FAIL,"2,4",Hancom group affiliate with mixed security/crypto businesses,,,,medium
+322310,오로스테크놀로지,Overlay metrology equipment,FAIL,3,"Recent losses, thin earnings",50,,,medium
+950190,고스트스튜디오,Mobile games (foreign-listed),FAIL,6,"Foreign-domiciled game company, declining revenue",80,10,6.3,low
+240550,동방메디컬,Acupuncture needles / aesthetics,FAIL,3,"Small medical consumables, low earnings vs cap",50,8,3.2,low
+105330,케이엔더블유,Display films / materials,FAIL,3,"Small films maker, minimal profit",40,3,1.0,low
+006060,화승인더,Holding / footwear materials,FAIL,"2,5","Hwaseung group intermediate holding, leveraged",,,,medium
+001210,금호전기,Lighting,FAIL,3,"Speculative small cap, chronic losses",20,,,medium
+072950,빛샘전자,LED displays,FAIL,3,"Tiny LED display maker, speculative trading",20,,,low
+469610,이노테크,Semiconductor parts,FAIL,3,"Small recent listing, earnings far below hurdle",40,8,2.6,low
+322510,제이엘케이,AI medical imaging,FAIL,3,Loss-making medical AI,5,,,high
+047770,코데즈컴바인,Apparel,FAIL,3,Loss-making apparel brand,40,,,medium
+321550,티움바이오,Biotech,FAIL,"2,3",Clinical-stage biotech,1,,,high
+009070,KCTC,Logistics,FAIL,6,Port/logistics; revenue flat to declining since 2022,430,3,10.4,medium
+259630,엠플러스,Battery assembly equipment,FAIL,6,"Lumpy battery equipment orders, EV capex slump",120,5,4.8,medium
+285490,노바텍,Magnets for phones/tablets,FAIL,6,"FY25 revenue -15.5%, OP down three straight years",56,10,4.5,high
+004960,한신공영,Construction,FAIL,"5,6","Leveraged builder, PF exposure, no growth",1200,1,9.7,medium
+478340,나라스페이스테크놀로지,Small satellites,FAIL,3,Loss-making satellite startup,10,,,high
+282880,코윈로보틱스,Robotics / automation,FAIL,3,"Small automation maker, low earnings",30,,,low
+039840,디오,Dental implants,FAIL,3,Losses after accounting restatements,100,,,medium
+053260,금강철강,Steel distribution,FAIL,6,"Cyclical steel processing, no growth",250,2,4.1,medium
+290720,푸드나무,Diet food DTC,FAIL,3,"Chicken-breast e-commerce, thin profits",60,2,1.0,medium
+001360,삼성제약,Pharma,FAIL,3,"Chronic losses, biotech pivot",60,,,high
+059120,아진엑스텍,Motion control chips,FAIL,3,"Small, loss-making motion controller maker",20,,,medium
+038290,마크로젠,Genomics services,FAIL,3,"Sequencing services, low profit",130,2,2.1,medium
+095700,제넥신,Biotech,FAIL,"2,3",Clinical-stage biotech,5,,,high
+089470,HDC현대EP,Plastics compounds,FAIL,4,HDC group affiliate with hired CEO; thin margins,700,1,5.7,medium
+027710,팜스토리,Animal feed,FAIL,4,Harim group affiliate,,,,high
+172670,에이엘티,Semiconductor testing,FAIL,"3,5",Test services with losses and heavy capex debt,40,,,medium
+297090,씨에스베어링,Wind turbine bearings,FAIL,4,"CS Wind subsidiary, not owner-run at company level; weak profits",150,3,3.7,medium
+084670,동양고속,Express bus,FAIL,6,"Bus operator, mature/flat revenue",180,4,5.9,medium
+474650,링크솔루션,3D printers / misc,FAIL,3,Small recent listing; earnings well below hurdle,30,8,2.0,low
+013520,화승코퍼레이션,Auto rubber parts,FAIL,5,"High leverage (debt ratio well over 100%), thin margins",1600,1,13.2,medium
+0007C0,아크릴,AI software,FAIL,3,Loss-making AI platform startup,10,,,high
+267290,경동도시가스,City gas utility,FAIL,6,"Regulated gas distributor, no growth",1500,1,12.4,medium
+079960,동양이엔피,Power supplies (SMPS/EV),FAIL,6,"Very cheap (FY25 rev 597bn) but H1-26 revenue -25%, OP -70%",480,6,23.8,medium
+115500,케이씨에스,IT/financial terminals,FAIL,3,"Small IT hardware firm, minimal earnings",40,5,1.7,low
+126640,화신정공,Auto parts,FAIL,3,"Small auto parts maker, weak earnings",80,2,1.3,low
+083500,에프엔에스테크,Display/semi materials,FAIL,3,Losses in display materials,50,,,medium
+210540,디와이파워,Hydraulic cylinders,FAIL,6,DY group; excavator-cycle revenue declining,350,4,11.8,medium
+299030,하나기술,Battery equipment,FAIL,"3,5","Losses, leveraged battery equipment maker",80,,,medium
+037350,성도이엔지,Cleanroom EPC,FAIL,6,"Revenue fell from ~1tn (2024) to ~743bn (2025), H1-26 down further",690,2.5,14.6,high
+095190,신화프리텍,Moulds / auto parts,FAIL,3,"Small, low-profit parts maker",70,1,0.6,low
+0015N0,아로마티카,Clean beauty cosmetics,FAIL,3,"Founder brand, 2024 rev 53bn just profitable; norm EY ~4% at 8% margin",65,8,4.4,low
+014530,극동유화,Lubricant/chemical distribution,FAIL,6,"Petrochemical distributor, flat revenue",1300,1.2,13.3,medium
+009270,신원,Apparel,FAIL,"6,3","Apparel OEM/brands, flat revenue, thin margin",900,1,7.7,medium
+001520,동양,Cement/construction,FAIL,4,Eugene group affiliate,,,,high
+004100,태양금속,Auto fasteners,FAIL,"3,5",Low-margin bolts maker with high debt,500,1,4.3,medium

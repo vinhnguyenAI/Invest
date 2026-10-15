@@ -1,0 +1,101 @@
+Code,Name,sector,verdict,failed_criteria,reason,est_revenue_krw_bn,est_norm_net_margin_pct,est_norm_ey_pct,confidence
+317400,자이에스앤디,Construction/property services,FAIL,"4,6",GS group affiliate (Heo family) run by hired CEO; housing construction revenue declining,1500,2,9,medium
+084010,대한제강,Steel (rebar),FAIL,6,Rebar demand slump; revenue declining 2023-25 with construction downturn,1300,3,11,medium
+046970,우리로,Optical components,FAIL,3,Small loss-making optical/quantum-theme component maker; no normalised earnings base,40,3,0.4,medium
+104700,한국철강,Steel (rebar),FAIL,6,KISCO rebar maker; revenue declining with construction downturn,700,3,6,medium
+092790,넥스틸,Steel pipe (OCTG),FAIL,6,OCTG exporter hit by US 50% steel tariffs; revenue down from 2023 peak,600,5,9,medium
+003350,한국화장품제조,Cosmetics OEM,FAIL,3,Cosmetics ODM ~KRW130-150bn revenue; norm EY ~5-6% at 13% net margin,140,13,5.3,low
+145720,덴티움,Dental implants,FAIL,6,Revenue declining 2024-25 on China VBP/destocking; cheap but not growing,330,15,14.6,medium
+006220,제주은행,Bank,FAIL,"2,4",Regional bank (Shinhan subsidiary); financials excluded,,,,high
+332570,PS일렉트로닉스,RF front-end modules,FAIL,"2,3",RF PAM maker pivoting to AI server/busbar/equipment; 2026E net ~20bn gives EY ~6%,125,10,3.7,low
+950210,프레스티지바이오파마,Biosimilars,FAIL,"2,3","Pre-profit biosimilar developer, persistent losses",,,,high
+170900,동아에스티,Pharma,FAIL,"3,4","Dong-A Socio affiliate with hired CEO; heavy R&D, low net margin",700,2,4.2,medium
+005720,넥센,Holding (tyres),FAIL,"2,5",Holding company of Nexen Tire; consolidated leverage high,3000,,,medium
+009290,광동제약,Pharma/beverages distribution,FAIL,"3,6",Revenue flat ~1.6tn; net margin ~1.5-2%,1650,1.8,8.9,medium
+121440,골프존홀딩스,Holding (golf),FAIL,"2,6",Golfzon group holding company; retail/golf segments flat,,,,medium
+060980,HL홀딩스,Holding (auto parts/construction),FAIL,2,HL group holding company; opaque multi-segment holding,,,,high
+425040,티이엠씨,Specialty gases,FAIL,"3,6",Neon/specialty gas revenue fell from 2022 peak; thin margins,100,5,1.5,medium
+017810,풀무원,Food,FAIL,"4,5","Founder retired, hired CEO; debt ratio >200%, thin margins",3200,1,9.7,medium
+093520,매커스,FPGA distribution,FAIL,6,"AMD/Xilinx distributor; revenue down from 2022 peak, no growth phase",120,10,3.7,low
+477850,마키나락스,AI software,FAIL,3,Recently listed loss-making industrial AI software firm,,,,high
+017890,한국알콜,Ethanol/chemicals,FAIL,6,Standalone ethanol revenue flat (~294bn 2024); growth mainly via ENF equity income,300,8,7.4,low
+0120G0,삼양바이오팜,Pharma (sutures/APIs),FAIL,4,Samyang group spin-off run by hired CEO,,,,medium
+200710,에이디테크놀로지,ASIC design,FAIL,3,ASIC design house with losses/low margins,,,,medium
+000650,천일고속,Bus transport,FAIL,"3,6","Small express-bus operator; revenue ~50bn, stagnant",50,10,1.6,high
+036620,감성코퍼레이션,Apparel (Snow Peak licence),PASS,,"Founder-run Snow Peak apparel; rev 250bn (+13.5%), OP 44.6bn; 2026 growth ~+17%; licence/auditor to verify",250,14,11,medium
+060280,큐렉소,Surgical robots,FAIL,3,Loss-making surgical robot maker,,,,high
+272450,진에어,Airline (LCC),FAIL,"4,5",Hanjin/Korean Air subsidiary with hired CEO; lease-heavy balance sheet,,,,high
+482630,삼양엔씨켐,Semiconductor materials,FAIL,3,"Photoresist monomer maker; net ~10bn on ~316bn cap, EY ~3%",100,10,3.2,low
+064260,다날,Payments/crypto,FAIL,"2,3",Mobile payments plus crypto (Paycoin) exposure; weak earnings,,,,high
+009160,SIMPAC,Industrial presses/ferroalloy,FAIL,6,"Press and ferroalloy revenue cyclical, declining since 2023",600,5,9.6,low
+097520,엠씨넥스,Camera modules,FAIL,6,"Revenue ~1.1tn 2022 to ~1.25tn 2025, Q1-26 -13% YoY; no growth phase",1250,3,12,medium
+011760,현대코퍼레이션,Trading,FAIL,6,Commodity trading revenue flat ~6.5tn; thin margins,6600,1.2,25,medium
+110990,디아이티,Laser equipment,FAIL,3,"Semi/display laser equipment; revenue ~100bn, EY ~3%",100,10,3.2,low
+024720,콜마홀딩스,Holding (cosmetics OEM),FAIL,2,Kolmar holding company amid family dispute,,,,high
+001230,동국홀딩스,Holding (steel),FAIL,"2,6",Dongkuk steel group holding; steel revenue declining,,,,high
+452280,한선엔지니어링,Valves/fittings,FAIL,3,Small instrumentation fitting maker; EY ~3%,60,15,2.9,low
+456010,아이씨티케이,Security chips,FAIL,3,PUF security chip maker; minimal profits,,,,high
+018000,유니슨,Wind turbines,FAIL,"3,5","Loss-making wind-turbine maker, repeated dilution",,,,high
+006910,보성파워텍,Power line fixtures,FAIL,3,"Small power-line hardware maker; theme-driven valuation, EY ~3%",120,7,2.8,low
+215600,신라젠,Biotech,FAIL,"2,3",Clinical-stage oncology biotech,,,,high
+096760,JW홀딩스,Holding (pharma),FAIL,2,JW group pharma holding company,,,,high
+010580,에스엠벡셀,Batteries,FAIL,"3,4","SM group battery maker; hired CEO, losses",,,,medium
+381970,KG모빌리티플랫폼,Used-car retail,FAIL,4,"Former K Car now under KG group; hired CEO, inventory-financed debt",2300,2,15.5,low
+446540,메가터치,Probe pins/components,FAIL,3,Small recently listed component maker; EY well below hurdle,,,,low
+025860,남해화학,Fertiliser,FAIL,4,NongHyup-controlled fertiliser maker; no owner-operator,,,,high
+199800,툴젠,Gene editing,FAIL,"2,3",Gene-editing IP/licensing biotech; lumpy royalty revenue,,,,high
+234340,헥토파이낸셜,Payments (PG),FAIL,"3,4",Hecto group PG run by hired CEO; EY ~7% at 11% margin,180,11,6.7,low
+206650,유바이오로직스,Vaccines,FAIL,4,Cholera vaccine maker without strong controlling owner (~10%),140,18,8.6,low
+117730,티로보틱스,Robotics,FAIL,3,Loss-making industrial robot maker,,,,high
+026890,스틱인베스트먼트,Private equity,FAIL,2,PE/asset manager; financial business,,,,high
+054950,제이브이엠,Pharmacy automation,FAIL,4,Hanmi group subsidiary run by hired CEO,160,12,6.5,medium
+018250,애경산업,Consumer goods/cosmetics,FAIL,"4,6","Sold to Taekwang consortium 2025; hired CEO, revenue declining",,,,medium
+036200,유니셈,Semi equipment (scrubbers),FAIL,6,"Scrubber/chiller sales cyclical, revenue ~flat vs 2022 peak",300,9,9.2,low
+123890,한국자산신탁,Real estate trust,FAIL,2,Real-estate trust/financial business with PF risk,,,,high
+168360,펨트론,Inspection equipment,FAIL,3,Small 3D inspection equipment maker; thin profits,,,,medium
+200880,서연이화,Auto interiors,PASS,,"Owner-run (Yoo family) auto parts; rev 4.5tn (+11.5%), 2.5% net = EY ~39%; verify leverage/auditor",4500,2.5,38.7,medium
+002310,아세아제지,Containerboard,FAIL,6,Paperboard revenue flat/declining,800,5,13.8,medium
+126720,수산인더스트리,Power plant maintenance,FAIL,6,"Revenue 304/325/317/338bn 2022-25: ~4% CAGR, fails growth",338,11,12.8,high
+005430,한국공항,Airport ground handling,FAIL,4,Hanjin group subsidiary run by hired CEO,,,,high
+455900,엔젤로보틱스,Wearable robots,FAIL,3,Loss-making wearable robot maker,,,,high
+025770,한국정보통신,Card VAN/PG,FAIL,6,VAN business mature; revenue flat,,,,low
+092460,한라IMS,Marine gauges,FAIL,3,"Ship gauge maker; revenue ~100bn, EY ~3-4%",100,10,3.5,low
+035810,이지홀딩스,Holding (feed),FAIL,2,EasyBio holding company,,,,high
+001750,한양증권,Broker,FAIL,2,Securities broker; financials excluded,,,,high
+034830,한국토지신탁,Real estate trust,FAIL,2,Real-estate trust with PF exposure,,,,high
+084110,휴온스글로벌,Holding (pharma),FAIL,2,Huons group holding company,,,,high
+084690,대상홀딩스,Holding (food),FAIL,2,Daesang group holding company,,,,high
+108670,LX하우시스,Building materials,FAIL,"4,6",LX group affiliate with hired CEO; revenue flat,,,,high
+900290,GRT,Optical film (China),FAIL,6,"China-based KOSDAQ listing; revenue not growing, governance risk",,,,low
+005950,이수화학,Chemicals,FAIL,"3,5",Isu group petrochem; losses and high leverage,,,,medium
+136480,하림,Poultry,FAIL,"3,5","Commodity chicken processing; thin margins, high debt",,,,medium
+424870,이뮨온시아,Biotech,FAIL,"2,3",Clinical-stage immuno-oncology biotech,,,,high
+044450,KSS해운,LPG shipping,FAIL,"4,5",No owner-operator; ship-financing debt high,,,,medium
+265520,AP시스템,Display equipment,FAIL,6,Display equipment revenue cyclical/declining,,,,medium
+244920,에이플러스에셋,Insurance GA,FAIL,2,Insurance agency/financial business,,,,high
+002020,코오롱,Holding,FAIL,2,Kolon group holding company,,,,high
+033270,유나이티드제약,Pharma,FAIL,6,"Owner-run, net cash, cheap, but revenue CAGR ~5-7%",320,14,16,medium
+004430,송원산업,Chemicals (antioxidants),FAIL,6,Polymer stabiliser revenue flat/declining; family dispute,1100,4,15.9,medium
+078520,에이블씨엔씨,Cosmetics retail,FAIL,4,IMM PE-controlled Missha owner,,,,high
+085910,네오티스,Components/tools,FAIL,3,Small-cap; earnings far below hurdle at 276bn cap,,,,low
+061970,LB세미콘,OSAT,FAIL,3,Display driver IC test/bump OSAT with losses,,,,high
+122900,아이마켓코리아,MRO procurement,FAIL,6,"MRO revenue flat ~3tn, net margin <1%",3200,0.6,7,medium
+100120,뷰웍스,X-ray detectors,FAIL,6,Medical/industrial imaging revenue flat ~250bn,250,10,9.2,low
+115450,HLB테라퓨틱스,Biotech,FAIL,"2,3",Clinical-stage biotech,,,,high
+042520,한스바이오메드,Medical implants,FAIL,3,Small breast-implant/tissue maker; EY far below hurdle,,,,medium
+448900,한국피아이엠,Metal injection moulding,FAIL,3,Small MIM parts maker; EY far below hurdle,,,,low
+049070,인탑스,Phone cases/EMS,FAIL,6,Samsung phone case/EMS revenue declining,,,,medium
+352480,씨앤씨인터내셔널,Cosmetics OEM,PASS,,"Founder-run colour cosmetics ODM, net cash; rev ~290bn, norm 9% net = EY ~9-10%; 2025 growth slowed",290,9,9.6,low
+416180,신성에스티,Battery components,FAIL,3,Small battery parts maker; weak profits,,,,medium
+378340,필에너지,Battery equipment,FAIL,"3,6",Battery stacking equipment orders collapsed,,,,medium
+200670,휴메딕스,Fillers/aesthetics,FAIL,4,Huons group subsidiary with hired CEO,170,18,11.3,medium
+484590,삼양컴텍,Defence armour,PASS,,"Ceramic armour for K2 tanks/vests, export-driven growth; owner and EY ~8-11% to verify",170,15,9.4,low
+042370,비츠로테크,Power equipment/fusion,FAIL,3,Fusion-theme valuation; EY ~5-6% at defensible margin,300,5,5.6,low
+025000,KPX케미칼,Chemicals (polyols),FAIL,6,Polyol revenue flat/declining with chemical cycle,1000,3,11.3,medium
+035600,KG이니시스,Payments (PG),FAIL,"4,6",KG group affiliate with hired CEO; growth modest,,,,medium
+160980,싸이맥스,Semi equipment (robots),FAIL,3,Wafer transfer robot maker; EY ~6% at 10% margin,160,10,6,low
+010820,퍼스텍,Defence parts,FAIL,3,Low-margin defence parts; EY far below hurdle,230,2,1.7,medium
+001390,KG케미칼,Holding/chemicals,FAIL,"2,4",KG group quasi-holding consolidating KG Steel,,,,medium
+452430,사피엔반도체,Display driver ICs,FAIL,3,Loss-making DDI designer,,,,high
+002320,한진,Logistics,FAIL,"3,5","Hanjin logistics; high debt, low net margin",3000,1,11,medium
+286940,롯데이노베이트,IT services,FAIL,"3,4",Lotte group IT arm run by hired CEO,,,,high
