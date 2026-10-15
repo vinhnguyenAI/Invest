@@ -1,0 +1,101 @@
+Code,Name,sector,verdict,failed_criteria,reason,est_revenue_krw_bn,est_norm_net_margin_pct,est_norm_ey_pct,confidence
+468670,브릴스,Robot modules,FAIL,3,"Recent IPO; FY2024 net ~1.7bn, H1 revenue 13.7bn; marcap implies P/E >100x",28,8,1.0,high
+0011T0,채비,EV charging,FAIL,"3,5","EV charger maker/operator, loss-making with heavy capex and debt",,,,medium
+003650,미창석유,Lubricants,FAIL,6,"Owner-run lubricant maker; revenue flat with oil prices, no growth runway",280,6,7.9,medium
+144510,지씨셀,Cell therapy/CDMO,FAIL,"2,3,4","GC group affiliate, hired CEO; cell therapy losses",,,,high
+005010,휴스틸,Steel pipes,FAIL,6,Steel pipe revenue declining since 2022 US OCTG peak,550,4,10.4,medium
+340450,지씨지놈,Genomic diagnostics,FAIL,"3,4","GC affiliate genomic testing, loss-making",,,,high
+900140,엘브이엠씨홀딩스,Auto distribution (Laos),FAIL,"2,3,5","Cayman holdco, Laos vehicle distribution/finance; leveraged, weak earnings",,,,medium
+033920,무학,Soju,FAIL,6,Regional soju maker; revenue declining/flat for years,200,8,7.7,high
+263860,지니언스,Network security software,FAIL,3,"Founder-run NAC/EDR vendor; revenue ~55bn, norm EY ~4%",55,15,4.0,medium
+035150,백산,Synthetic leather,FAIL,6,"Footwear/auto synthetic leather; revenue cyclical, 2023 decline, no steady 10% CAGR; not verified (search budget)",210,8,8.1,low
+475560,더본코리아,F&B franchising,FAIL,6,Franchise revenue fell in 2025 after founder Paik controversies,450,4,8.7,medium
+053690,한미글로벌,Construction management,FAIL,"3,6","Founder-run CM firm; revenue ~flat, net margin ~3.5%, norm EY ~7%",400,3.5,6.8,low
+003720,삼영,Capacitor film,FAIL,3,"Capacitor film maker with thin, volatile margins",150,4,2.9,medium
+206640,바디텍메드,POC diagnostics,FAIL,"3,6",Post-COVID revenue flat ~130bn; norm EY ~6%,130,10,6.3,medium
+000490,대동,Tractors/ag machinery,FAIL,"5,6",Revenue declined 2024 with NA tractor slump; high debt,1350,2,13.1,medium
+049430,코메론,Tape measures,FAIL,6,Owner-run tape measure maker; revenue flat around 90-100bn,95,12,5.6,medium
+0001A0,덕양에너젠,Industrial hydrogen,FAIL,3,"FY2025 revenue 143bn, net 4.5bn (~3%); EY ~2%",143,3,2.1,high
+190510,나무가,Camera modules,FAIL,3,"Smartphone 3D camera modules; low single-digit margins, volatile revenue",300,2.5,3.7,low
+078150,HB테크놀러지,Display inspection equipment,FAIL,3,Display AOI equipment; losses/minimal profits,,,,medium
+486510,글로벌테크놀로지,Tech hardware (new IPO),FAIL,3,"Loss-making 2 yrs; H1 2026 net 1.5bn, FY2025 revenue 30bn",60,5,1.5,high
+092200,디아이씨,Auto gears,FAIL,5,"Auto/EV gear maker; heavily indebted, low net margin",600,2,5.9,medium
+053300,한국정보인증,Digital certificates,FAIL,"3,4","Kiwoom/Daou group affiliate, hired CEO; small profits, norm EY ~4%",75,11,4.1,medium
+035510,신세계 I&C,IT services,FAIL,4,Shinsegae chaebol IT affiliate run by hired CEO,600,3,8.9,high
+042510,라온시큐어,Security/authentication,FAIL,3,"Security software, recurring losses",,,,medium
+220100,퓨쳐켐,Radiopharmaceuticals,FAIL,"2,3","Clinical-stage radiopharma, loss-making",,,,high
+064550,바이오니아,Molecular diagnostics,FAIL,3,"Diagnostics/bio, recurring losses",,,,high
+256840,한국비엔씨,Biomaterials,FAIL,"2,3",Biomaterials with pivots into new drugs; losses,,,,high
+083310,엘오티베큠,Vacuum pumps,FAIL,6,Semi/display vacuum pumps; cyclical revenue below 2022 peak; norm EY ~7%; not verified (search budget),280,5,7.0,low
+307180,아이엘,LED/misc,FAIL,"2,3","Pivoting LED/auto lamp/robot story, losses",,,,medium
+032580,피델릭스,Memory fabless,FAIL,3,Specialty memory fabless; losses,,,,medium
+045390,대아티아이,Rail signalling,FAIL,3,"Rail signalling; net ~5bn on ~100bn revenue, EY ~3%",100,6,3.0,medium
+094480,갤럭시아머니트리,Payments/fintech,FAIL,"2,3",Hyosung-linked payments/crypto exposure; thin profits,,,,medium
+237880,클리오,Cosmetics,FAIL,6,Founder-run cosmetics; revenue fell in 2025 amid domestic channel weakness,340,5,8.5,medium
+365270,큐라클,Biotech,FAIL,"2,3",Clinical-stage biotech,,,,high
+025560,미래산업,Test handlers,FAIL,3,Semiconductor test handlers; long loss history,,,,medium
+019010,베뉴지,Misc,FAIL,3,"Small, low-profit business; no sign of earnings near hurdle",,,,low
+176750,듀켐바이오,Radiopharma CMO,FAIL,3,"Radiopharma production; small profits, EY ~2%",40,8,1.6,medium
+372170,윤성에프앤씨,Battery mixers,FAIL,"3,6",Battery mixing equipment; orders collapsed with EV slowdown,,,,medium
+234690,녹십자웰빙,Pharma/supplements,FAIL,"3,4",GC group affiliate; small profits,130,5,3.3,high
+481070,에이유브랜즈,Apparel (rain boots),FAIL,3,"FY2025 revenue 60bn, EPS 615 -> net ~8.8bn; EY ~4.5%",60,15,4.6,medium
+009470,삼화전기,Aluminium capacitors,FAIL,"3,6","FY2025 revenue 230bn (down), net 11.1bn; EY ~5.7%",230,6,7.1,medium
+004980,성신양회,Cement,FAIL,"5,6","Cement; heavy debt, construction-cycle demand decline",,,,high
+053030,바이넥스,Bio CDMO,FAIL,3,Bio CDMO with thin profits,150,5,3.9,medium
+489460,바이오비쥬,Aesthetic fillers,FAIL,3,Small filler/skin booster maker; norm EY ~4%,35,22,4.0,low
+067080,대화제약,Pharma,FAIL,3,Pharma with losses/thin margins,,,,medium
+382800,지앤비에스 에코,Semi scrubbers,FAIL,3,Semi exhaust scrubbers; small profits vs marcap,70,8,2.9,low
+117580,대성에너지,City gas,FAIL,6,Regulated Daegu city gas; flat revenue,,,,high
+036190,금화피에스시,Power plant maintenance,PASS,,"FY2025 revenue 424bn, net ~31bn; CEO Kim Seong-ki 37.5%; growth ~19% CAGR (partly M&A); auditor unverified",424,5.5,12.1,medium
+016580,환인제약,CNS pharma,FAIL,6,"Owner-run CNS drugs, net cash; but revenue growth ~5% p.a.",260,9,12.1,medium
+126730,코칩,Supercapacitors,FAIL,3,Small supercapacitor maker; EY ~2%,35,10,1.8,medium
+339770,교촌에프앤비,Chicken franchise,FAIL,6,Revenue flat ~450-500bn since 2021,480,4,10.0,medium
+241520,DSC인베스트먼트,Venture capital,FAIL,2,VC firm; earnings driven by fund valuations,,,,high
+013580,계룡건설,Construction,FAIL,"3,6","Construction downturn; thin margins, falling orders",,,,medium
+095570,AJ네트웍스,Equipment rental,FAIL,5,Rental business with heavy debt,,,,high
+058970,엠로,SCM software,FAIL,"3,4",Samsung SDS largest shareholder; P/E far above hurdle,,,,high
+382900,범한퓨얼셀,Fuel cells,FAIL,3,Submarine/hydrogen fuel cells; small profits,60,8,2.5,medium
+014940,오리엔탈정공,Ship deckhouses,FAIL,6,"Revenue flat 2024->2025 (~207bn), net 19bn; EY ok but growth stalled",207,8,8.7,medium
+462860,더즌,Fintech/banking API,FAIL,"2,3",Fintech payments; low profits,,,,medium
+065680,우주일렉트로,Connectors,FAIL,"3,6","Connectors; revenue flat, thin margins",250,4,5.3,medium
+125020,티씨머티리얼즈,Copper/electrical materials,FAIL,3,"Revenue ~100bn/qtr, OP ~5bn/qtr; net margin ~2-3%, norm EY ~5-6%",420,2.5,5.6,low
+001130,대한제분,Flour milling,FAIL,6,Flour milling; revenue flat/declining with wheat prices,,,,high
+037270,YG PLUS,Music distribution,FAIL,"3,4","YG/HYBE affiliate, low margins",,,,high
+403850,더핑크퐁컴퍼니,Kids IP/content,FAIL,6,FY2025 revenue fell vs 97bn in 2024 (Baby Shark IP maturing); 2026 growth only forecast,95,17,8.6,medium
+439960,코스모로보틱스,Rehab robots,FAIL,3,Loss-making robotics,,,,high
+353810,이지바이오,Animal feed,FAIL,"3,5","Feed/livestock group; thin margins, high debt",,,,medium
+000390,SP삼화,Paints,FAIL,"3,6","Paints; thin margins, flat revenue",650,1.5,5.2,medium
+298000,효성화학,Chemicals,FAIL,"3,4,5","Hyosung chaebol chemicals; large losses, severe debt",,,,high
+293780,압타바이오,Biotech,FAIL,"2,3",Clinical-stage biotech,,,,high
+083930,아바코,Vacuum/display equipment,FAIL,6,Display/battery deposition equipment; order-driven revenue declined with battery capex slowdown; unverified,,,,low
+052330,코텍,Casino monitors,FAIL,6,"Owner-run, net cash, but revenue flat with casino capex",180,7,6.8,medium
+143240,사람인,Job platform,FAIL,6,Recruiting platform revenue declining with hiring slump,,,,high
+187870,디바이스,Semi/OLED cleaning equipment,FAIL,3,"FY2025 net 16.9bn (EY 9%) but 2024 net 7.8bn; lumpy Samsung capex, through-cycle EY ~6%",84,13,5.9,low
+102460,이연제약,Pharma,FAIL,3,Pharma; low profits,,,,medium
+005960,동부건설,Construction,FAIL,"3,5","Construction losses, high debt",,,,high
+102260,동성케미컬,PU/chemicals,FAIL,"3,6","PU materials; thin margins, flat revenue",,,,medium
+013120,동원개발,Housing construction,FAIL,6,Busan housing builder; revenue declining with housing slump,,,,medium
+082800,비보존 제약,Pharma/pain drug,FAIL,"2,3",Novel analgesic developer; losses,,,,high
+475400,씨메스로보틱스,Robot vision,FAIL,3,Loss-making robotics,,,,high
+194700,노바렉스,Supplement ODM,FAIL,6,Health supplement ODM growth stalled since 2023,300,5,8.2,medium
+003520,영진약품,Pharma,FAIL,"3,4",KT&G affiliate; minimal profits,,,,high
+396300,HT로보틱스,Robotics,FAIL,3,Loss-making robotics,,,,medium
+002150,도화엔지니어링,Engineering consulting,FAIL,3,"Engineering consultancy; thin net margin, EY ~4%",500,1.5,4.1,low
+487570,HS효성,Holding company,FAIL,2,Hyosung split-off holding company,,,,high
+452450,피아이이,Battery inspection,FAIL,3,Small inspection equipment maker; low profits,,,,medium
+394800,쓰리빌리언,Genetic diagnostics,FAIL,3,AI rare-disease genetic testing; losses,,,,high
+217730,강스템바이오텍,Stem cell biotech,FAIL,"2,3",Stem cell biotech; losses,,,,high
+033530,SJG세종,Auto exhaust parts,PASS,,"FY2025 revenue 1.90tn, net 68.7bn (P/E ~2.6x); Q2'26 growing; verify debt ratio, minority interests, 3y CAGR, merger",1900,2.5,26.5,low
+061090,세나테크놀로지,Motorcycle intercoms,PASS,,"Founder-run; FY2025 revenue 179bn, net 16.7bn (EY 9.3%); 2026e revenue +35%; net cash; auditor unverified",180,10,10.0,medium
+314930,바이오다인,Cytology diagnostics,FAIL,3,"Cytology systems; small revenue, losses",,,,medium
+459510,나우로보틱스,Robotics,FAIL,3,Loss-making robotics,,,,medium
+024060,흥구석유,Fuel retail,FAIL,"3,6","Gas stations; thin margins, flat revenue",,,,high
+003220,대원제약,Pharma,FAIL,"3,6","FY2025 revenue 605bn (+1%), net loss 4bn",605,3,10.3,high
+015230,대창단조,Forgings,FAIL,6,Construction-machinery forgings; revenue declining,,,,medium
+041920,메디아나,Patient monitors,FAIL,3,Patient monitors; small profits,70,8,3.2,medium
+002100,경농,Agrochemicals,FAIL,6,Agrochemicals; flat revenue,,,,medium
+119610,인터로조,Contact lenses,FAIL,"3,6","Contact lenses; growth slowed, norm EY ~7%",140,9,7.2,low
+462350,이노스페이스,Space launch,FAIL,"2,3",Pre-commercial rocket developer; losses,,,,high
+0035S0,빅웨이브로보틱스,Robotics,FAIL,3,New robotics IPO; minimal profits,,,,medium
+104480,티케이케미칼,Chemical fibers,FAIL,"3,4",SM group affiliate; losses,,,,high
+163730,핑거,Fintech software,FAIL,3,Financial IT services; low profits,,,,medium
