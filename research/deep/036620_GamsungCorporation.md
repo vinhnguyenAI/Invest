@@ -1,6 +1,6 @@
 # 감성코퍼레이션 / Gamsung Corporation — 036620 (KOSDAQ)
 
-**Verdict: WATCH**: it is founder-run, grew revenue at a 29% 3y CAGR and trades at a ~10.9% normalised EY. Open items are #5 (balance sheet only indirectly checked) and slowing growth (2Q26 +9.2%, OP +4%). The auditor is ❓, and the business depends on a Snow Peak licence.
+**Verdict: WATCH**: it is founder-run, grew revenue at a 29% 3y CAGR and trades at a ~10.9% normalised EY. The 2026-10-16 check left #5 open: net cash was not found, and aggregators put 부채비율 at ~38–55%. The Snow Peak licence was renewed in Feb-2025, but its term and royalty are undisclosed. Growth is slowing (2Q26 +9.2%), and the auditor is still ❓.
 Market cap (2026-10-14): ₩319.9bn · Price ₩3,560 · Sector: Apparel (Snow Peak Apparel licence)
 
 ## Scorecard
@@ -10,7 +10,7 @@ Market cap (2026-10-14): ₩319.9bn · Price ₩3,560 · Sector: Apparel (Snow P
 | 2 | Simple business | ✅ | Designs and sells Snow Peak-branded outdoor/lifestyle apparel under licence in Korea (and parts of Asia, now China). A small mobile-accessory business sits alongside. |
 | 3 | Normalised EY ≥ 8.5% | ✅ | 10.9% base / 8.3% bear |
 | 4 | Owner-run | ✅ | 김호선 is CEO: 23.98% direct, 29.46% incl. related parties (etfshopping 2026-09), and keeps buying shares (250k shares in Jan-2026). |
-| 5 | Healthy balance sheet | ⚠️ | Investing.com BS (units unclear) shows liabilities/equity ~55% and debt/equity ~14%. ₩15bn of buybacks (₩13.3bn cancelled) in 2024. Policy: ≥50% of NI returned. Net cash unverified. |
+| 5 | Healthy balance sheet | ⚠️ (leverage low, net cash unverified) | 부채비율 aggregator readings are ~38% (stockhub, AI-generated, date unclear) and ~55% liabilities/equity (investing.com). Debt/equity ~14%. Buybacks of ₩15bn in 2024 were funded from OCF. No CB found. Net cash not verified. |
 | 6 | Revenue growth phase | ✅ (slowing) | 3y CAGR FY22→FY25 28.7%. FY25 +13.5%. 1H26 +16.8% (1Q +25.5%, 2Q +9.2%). |
 
 ## Business in two sentences
@@ -48,6 +48,13 @@ China via a partner (target 20–30 stores in 2026; the first Guangzhou store to
 
 ## Key risks
 Licence dependency on Snow Peak Japan (from memory: taken private in 2024, which raises renewal and royalty uncertainty). Fashion-cycle risk around gorpcore. Weather. China execution. A single brand.
+
+## Verification update (2026-10-16)
+- **Balance sheet:** net cash not found in 2 searches. 부채비율 readings: ~38% (stockhub analysis page, AI-generated, date unclear) and ~55% liabilities/equity (investing.com, earlier). Both are well under 100%, so leverage passes on aggregator data. Net cash/debt is **unverified**, and seasonal inventory pre-buys make the year-end figure volatile.
+- **Snow Peak licence:** first signed in 2019 for apparel in Korea and key Asian markets, and **renewed in Feb-2025** (Hankyung 2026-01-27). The renewal followed Bain Capital's 2024 take-private of Snow Peak, when Yuanta (2024-07) flagged renewal anxiety but judged termination unlikely. **The term length, expiry and royalty rate were not found** in 2 searches; they should be in the 사업보고서 (주요 계약). This remains a key risk, since a royalty step-up hits the 13% normalised margin.
+- **Auditor:** not found (1 search; a 미래회계법인 audit sample appeared but was not attributable).
+- Verdict: **WATCH** (#5 net cash and licence term open; 2Q26 growth +9.2%).
+- Sources: https://stockhub.kr/stock/036620 ; https://kr.investing.com/equities/virtualtek-corp-balance-sheet ; https://www.hankyung.com/article/2026012759901 ; https://file.alphasquare.co.kr/media/pdfs/company-report/유안타20240712감성코퍼레이션.pdf ; https://dealsite.co.kr/articles/158163 ; https://stock.pstatic.net/stock-research/company/78/20260324_company_292462000.pdf
 
 ## Sources
 - https://etfshopping.com/stock/036620/earnings (2Q26 585 / 91 / 72)

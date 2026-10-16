@@ -1,6 +1,6 @@
 # 금화피에스시 / Kumhwa PSC — 036190 (KOSDAQ)
 
-**Verdict: WATCH**. On the numbers this is a near-PASS: a ~15% normalised EY, an owner who is co-CEO, and 19.5% 3y revenue growth (12% organic since FY23) that continued in 1H26. Two items are open. The post-acquisition balance sheet (#5) is unverified, though it was historically heavy net cash, and the auditor (#1) is unknown. Korea's coal-plant phase-out is the main structural risk to the runway.
+**Verdict: WATCH**. On the numbers it is a near-PASS: a ~15% normalised EY, an owner who is co-CEO, 19.5% 3y revenue growth (12% organic) continuing in 1H26, and FY25 NI of ₩30.6bn now confirmed. The 2026-10-16 check found net cash of ₩56.7bn right after the Dec-2022 acquisition, but no FY25 or 1H26 부채비율 or net-cash figure (likely ✅). The auditor is still ❓. The coal phase-out is the main structural risk.
 Market cap (2026-10-14): ₩193.2bn · Price ₩32,200 · Sector: Power-plant maintenance (O&M) and water-treatment O&M
 
 ## Scorecard
@@ -10,7 +10,7 @@ Market cap (2026-10-14): ₩193.2bn · Price ₩32,200 · Sector: Power-plant ma
 | 2 | Simple business | ✅ | Maintenance contracts for thermal (coal/LNG) power plants, covering routine O&M and planned overhauls. Water-treatment and desalination O&M comes via 금화정수, ex-에코비트엔지니어링. |
 | 3 | Normalised EY ≥ 8.5% | ✅ | 15.1% base / 10.4% bear (estimate) |
 | 4 | Owner-run | ✅ | 김성기 (chairman; co-CEO with 김경태) holds 14.67% directly and 37.51% with related parties (etfshopping, updated Sep-2026). |
-| 5 | Healthy balance sheet | ❓ (likely ✅) | Net cash was ₩126bn at end-2021 and ₩138bn in 2020, with 부채비율 ~14% (2020). The ₩85bn cash acquisition in Dec-2022 reduced that. Implied PBR ~0.5 (butler.works). FY2025 net cash is not verified. No CB/BW history found. |
+| 5 | Healthy balance sheet | ❓ (likely ✅) | Net cash was ₩56.7bn right after the ₩85bn Dec-2022 acquisition (eBest 2023-04). Financial debt before the deal was only a few ₩bn. About ₩60bn+ of retained profit since then points to FY25/1H26 net cash of ~₩80–110bn (estimate). 1H26 current assets ~₩302bn (valueline 2026/06). 부채비율 at 1H26 not found. No CB/BW found. |
 | 6 | Revenue growth phase | ✅ | 3y CAGR FY22→FY25 is 19.5% (M&A-boosted). FY23→FY25 organic CAGR is 12.0%. FY25 +24.5%, 1H26 +12.3%. |
 
 ## Business in two sentences
@@ -48,6 +48,13 @@ Positives: re-acceleration in FY25 and 1H26. New LNG combined-cycle plants are r
 
 ## Key risks
 Coal phase-out. Dependence on the KEPCO gencos, which control budgets and tenders. Lumpy overhaul cycles. Wage inflation and safety regulation (Serious Accidents Punishment Act). Acquisition integration. The auditor and the FY2025 balance sheet are unverified.
+
+## Verification update (2026-10-16)
+- **FY2025 net income (verified, secondary):** ₩30.6bn, the sum of quarters 4.0 + 13.8 + 3.1 + 9.7. Revenue was ₩423.5bn (87.0 + 110.6 + 93.8 + 132.1) and OP ₩43.8bn (etfshopping, from 사업보고서 quarters).
+- **Post-acquisition balance sheet:** eBest (2023-04-25) put net cash at **₩56.7bn** after the ₩85bn all-cash purchase of 에코비트엔지니어링 (now 금화정수). Before the deal, financial liabilities were only a few ₩bn, against ~₩33–37bn of total liabilities. Since then cumulative NI has been ~₩90bn+ with a ~25–35% payout, so net cash of ₩80–110bn at FY25/1H26 is a reasonable *estimate*. Valueline shows 2026/06 current assets of ~₩302bn (vs ₩298bn at 2025/12), but liabilities and equity were not visible. **부채비율 not verified.**
+- **Auditor:** not found (1 search).
+- Verdict: **WATCH**, upgradeable to PASS if DART confirms net cash and the auditor.
+- Sources: https://etfshopping.com/stock/036190/earnings ; https://file.alphasquare.co.kr/media/pdfs/company-report/이베스트20230425금화피에스시.pdf ; https://file.alphasquare.co.kr/media/pdfs/company-report/이베스트20220817금화피에스시.pdf ; https://www.valueline.co.kr/finance/balancesheet/036190
 
 ## Sources
 - https://etfshopping.com/stock/036190/earnings (quarterly FY24–2Q26)
