@@ -56,6 +56,13 @@ Coal phase-out. Dependence on the KEPCO gencos, which control budgets and tender
 - Verdict: **WATCH**, upgradeable to PASS if DART confirms net cash and the auditor.
 - Sources: https://etfshopping.com/stock/036190/earnings ; https://file.alphasquare.co.kr/media/pdfs/company-report/이베스트20230425금화피에스시.pdf ; https://file.alphasquare.co.kr/media/pdfs/company-report/이베스트20220817금화피에스시.pdf ; https://www.valueline.co.kr/finance/balancesheet/036190
 
+## Coal-dependence deep dive (2026-10-16)
+See [kumhwa/00_SYNTHESIS.md](kumhwa/00_SYNTHESIS.md).
+- About 45% of revenue is estimated to be coal-linked.
+- There is no announced plan to move off coal, but nuclear has risen to 21% of the parent's revenue (2023), and the Shin-Hanul 3·4 contract is worth ₩58.9bn.
+- A July-2026 labour-government deal reportedly gives maintenance of new ≥200 MW gas combined-cycle plants to 한전KPS, which closes much of the replacement market.
+- Verdict stays **WATCH**, downgraded on durability. The stock is cheap and cash-rich, but growth looks fragile beyond about 2030.
+
 ## Sources
 - https://etfshopping.com/stock/036190/earnings (quarterly FY24–2Q26)
 - https://etfshopping.com/stock/036190/company (김성기 14.67% / 37.51%, co-CEOs)
